@@ -2,10 +2,10 @@
 ## Front matter
 lang: ru-RU
 title: Лабораторная работа №3
-author: |
+author:
 	Морозова Ульяна Константиновна
-institute: |
-	\inst{1}RUDN University, Moscow, Russian Federation
+institute:
+	RUDN University, Moscow, Russian Federation
 date: NEC--2022, 22 April 
 
 ## Formatting
